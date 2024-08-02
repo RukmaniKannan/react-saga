@@ -1,0 +1,1 @@
+export const base_url='https://65d463e83f1ab8c63435002e.mockapi.io/sagaCrud'

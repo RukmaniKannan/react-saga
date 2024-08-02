@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.create-saga{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+     width: 500px;
+     height: 450px;
+     margin-left: 350px;
+     /* background: rgb(131,58,180);
+background: linear-gradient(90deg, rgb(148, 95, 184) 0%, rgb(219, 86, 86) 50%, rgb(191, 124, 30) 100%); */
+    }
+.create-saga  h1{
+    color: rgb(147, 20, 244);
+    color: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(178,148,233,0.9136904761904762) 100%);
+}
+.create-saga label{
+    color: blue;
+    font-weight: bold;
+}
